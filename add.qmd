@@ -4,4 +4,4 @@ Hopefully, this file is okay.
 
 This file is successfully restored from a previous commit. This was a difficult task to do. I hope that I can understand how to perform commands better in Git Bash and understand the syntax better.
 
-This is a short text for homework purposes.
+This is a short sentence for homework purposes.
